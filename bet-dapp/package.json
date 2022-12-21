@@ -11,7 +11,8 @@
     "core-js": "^3.8.3",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
-    "vuex": "^4.0.0"
+    "vuex": "^4.0.0",
+    "web3": "^1.8.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
@@ -25,8 +26,7 @@
     "eslint": "^7.32.0",
     "eslint-plugin-import": "^2.25.3",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^5.1.0",
-    "eslint-plugin-vue": "^8.0.3"
+    "eslint-plugin-promise": "^5.1.0"
   },
   "eslintConfig": {
     "root": true,
