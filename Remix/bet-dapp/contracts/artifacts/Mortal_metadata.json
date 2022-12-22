@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.4.18+commit.9cf6e910"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "kill",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Betting.sol": "Mortal"
+		},
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Betting.sol": {
+			"keccak256": "0x0bb5117f741a4e3cb58ea7dcd7d1c52c822454880d86cc096af9e0d56727b7c9",
+			"urls": [
+				"bzzr://9bde09ac5be1fe641d753bb90d8384952ee9821808ea76b19b40f33eaec890b0"
+			]
+		}
+	},
+	"version": 1
+}
