@@ -5,8 +5,3 @@ import router from "./router/router";
 import store from "./store";
 
 createApp(App).use(store).use(router).mount("#app");
-
-// new Vue({
-//   router,
-//   render: (h) => h(App),
-// }).$mount("#app");
